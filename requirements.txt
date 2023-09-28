@@ -1,0 +1,13 @@
+altgraph==0.17.4
+distlib==0.3.7
+et-xmlfile==1.1.0
+filelock==3.12.4
+macholib==1.16.3
+openpyxl==3.1.2
+packaging==23.1
+platformdirs==3.10.0
+pyinstaller==6.0.0
+pyinstaller-hooks-contrib==2023.9
+setuptools==68.2.2
+tk==0.1.0
+virtualenv==20.24.5
